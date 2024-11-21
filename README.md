@@ -1,3 +1,5 @@
+### Note: This repositpry features my technical portfolio and the link on the github pages on the right displays my Portfolio Website.
+
 # Technical Blogs/Articles
 - [Hashnode](https://rover07.hashnode.dev/)
 - [Medium](https://medium.com/@VaibhavXyzee)
