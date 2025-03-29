@@ -1,3 +1,6 @@
+<!--Make this as a portfolio later -->
+## 🚀 About Me
+Hi, I'm Vaibhav Chauhan, a MERN stack developer passionate about building scalable and efficient web applications.  
 ### Note: This repositpry features my technical portfolio and the link on the github pages on the right displays my Portfolio Website.
 
 # Technical Blogs/Articles
@@ -14,6 +17,11 @@
 - [Linked.in](https://www.linkedin.com/in/vaibhav-chauhan-332176235/)
 - [Twitter](https://x.com/VaibhavXyzee)
 - [Peerlist](https://peerlist.io/rover)
+
+# Projects
+
+You can find a list of my projects along with detailed tracking and progress updates in this spreadsheet:  
+[📊 Project Tracker](https://docs.google.com/spreadsheets/d/1JskJaktUC9OUWlU9Cndbz8OPKQolE9eRC0FDSHdpMxQ/edit?usp=sharing)
 
 # Open Source Contributions
 
